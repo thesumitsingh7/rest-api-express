@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-express",
+  "version": "1.0.0",
+  "description": "Task 02 — REST API with Express implementing standard CRUD operations over a task resource",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-api.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "crud",
+    "http",
+    "json"
+  ],
+  "author": "Sumit Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
